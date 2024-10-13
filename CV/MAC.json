@@ -1,21 +1,24 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Conrad",
       "surnames": "Meyer-Alten",
       "title": "Frontend Developer",
-      "description": "Mi nombre es Conrad, gallego afincado en Madrid. Estudié empresariales y posteriormente Marketing Digital pero siempre me interesó mucho la tecnología y la innovación, hasta que acabé metiéndome de lleno en ella 😄 y ahora ya no puedo parar! Me gusta mucho la costa, el surf, y la escalada y también entre mis principales hobbits, sin duda , la música!",
+      "description": "My name is Conrad, a Spaniard living in Sydney. I studied business and later Digital Marketing but I was always very interested in technology and innovation, until I ended up getting fully into it 😄 and now I can't stop! I really like the coast, surfing, and climbing and also among my main hobbits, without a doubt, music!",
       "avatar": {
-        "alt": "perfil_short.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0b12235d-ddef-4227-bbb2-8d8bb8b22774_perfil_short.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0b12235d-ddef-4227-bbb2-8d8bb8b22774_perfil_short.png",
+        "alt": "perfil_short.png"
       },
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -33,23 +36,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "SuperTech"
-        },
-        "roles": [
-          {
-            "name": "Controller Financiero",
-            "startDate": "2017-07-01",
-            "finishDate": "2018-04-01",
-            "challenges": [
-              {
-                "description": "- Control financiero de las cuentas globales de la empresa\n- Realización de la facturación mensual\n- Control diario de pagos y cobros.\n- Desarrollo de plataformas internas de facturación y control financiero\n- Desarrollo de proyectos puntuales"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Boost by Stratesys"
         },
         "roles": [
@@ -63,15 +49,11 @@
             ],
             "competences": [
               {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "React Native",
-                "type": "technology"
-              },
-              {
                 "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
                 "type": "technology"
               },
               {
@@ -83,15 +65,19 @@
                 "type": "technology"
               },
               {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
+                "name": "React Native",
                 "type": "technology"
               },
               {
                 "name": "SourceTree",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
                 "type": "technology"
               }
             ]
@@ -118,7 +104,7 @@
                 "type": "technology"
               },
               {
-                "name": "Excel",
+                "name": "Microsoft Excel",
                 "type": "technology"
               },
               {
@@ -128,54 +114,129 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "SuperTech"
+        },
+        "roles": [
+          {
+            "name": "Controller Financiero",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-04-01",
+            "challenges": [
+              {
+                "description": "- Control financiero de las cuentas globales de la empresa\n- Realización de la facturación mensual\n- Control diario de pagos y cobros.\n- Desarrollo de plataformas internas de facturación y control financiero\n- Desarrollo de proyectos puntuales"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Gestión de Pequeña y Mediana Empresa",
-        "startDate": "2011-09-01",
-        "finishDate": "2017-05-01",
-        "institution": {
-          "name": "Universidad de Salamanca",
-          "description": " - Año de Erasmus en NOVA School of Business and Economics de Lisboa"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master en Marketing Digital",
-        "startDate": "2019-09-01",
-        "finishDate": "2018-06-01",
-        "institution": {
-          "name": "ESIC Business & Marketing School",
-          "description": ""
-        }
-      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack Web Development ",
         "startDate": "2021-01-01",
-        "finishDate": "2021-05-01",
         "institution": {
           "name": "The Bridge Digital Talent Accelerator",
           "description": "Bootcamp de Desarrollo Web Full Stack MERN enfocado en JavaScript:\n- JavaScript\n- Node.js\n- MongoDB\n- Express.js\n- React.js\n- MySQL\n- Docker\n- Kubernetes"
         },
+        "finishDate": "2021-05-01",
         "linkedCompetences": [
           {
-            "name": "JavaScript",
+            "name": "Cypress",
             "type": "technology"
           },
           {
-            "name": "React",
+            "name": "Docker",
             "type": "technology"
           },
           {
-            "name": "NodeJS",
+            "name": "Express",
             "type": "technology"
           },
           {
@@ -187,19 +248,7 @@
             "type": "technology"
           },
           {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "mongoose",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Cypress",
+            "name": "JavaScript",
             "type": "technology"
           },
           {
@@ -211,14 +260,67 @@
             "type": "technology"
           },
           {
-            "name": "Docker",
+            "name": "MongoDB",
             "type": "technology"
           },
           {
-            "name": "Express",
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Gestión de Pequeña y Mediana Empresa",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "description": " - Año de Erasmus en NOVA School of Business and Economics de Lisboa"
+        },
+        "finishDate": "2017-05-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master en Marketing Digital",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "ESIC Business & Marketing School"
+        },
+        "finishDate": "2018-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good verbal communication",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -226,8 +328,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/conrad-meyer-alten-rodr%C3%ADguez/"
+          "URL": "https://www.linkedin.com/in/conrad-meyer-alten-rodr%C3%ADguez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ConradMeyer",
+          "type": "github"
         }
       ]
     },
@@ -237,7 +343,15 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría encontrar un proyecto interesante y desafiante donde poder seguir creciendo en el mundo del tech. Lo que mas valoraría sería estar bien rodeando en mi entorno de trabajo\n\n",
+    "goodPractices": "¡Always clean code please!"
   }
 }
