@@ -156,7 +156,19 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -186,7 +198,19 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
           "type": "technology"
         }
       },
@@ -199,6 +223,18 @@
       {
         "skill": {
           "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -351,6 +387,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      },
+      {
+        "name": "Vuex",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría encontrar un proyecto interesante y desafiante donde poder seguir creciendo en el mundo del tech. Lo que mas valoraría sería estar bien rodeando en mi entorno de trabajo\n\n",
     "goodPractices": "¡Always clean code please!"
   }
