@@ -150,12 +150,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -394,11 +388,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Azure",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
-        "name": "NodeJS",
+        "name": "React",
         "type": "technology"
       },
       {
