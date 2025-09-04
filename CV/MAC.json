@@ -9,7 +9,7 @@
       "name": "Conrad",
       "surnames": "Meyer-Alten",
       "title": "Frontend Developer",
-      "description": "My name is Conrad, a Spaniard living in Sydney. I studied business and later Digital Marketing but I was always very interested in technology and innovation, until I ended up getting fully into it 😄 and now I can't stop! I really like the coast, surfing, and climbing and also among my main hobbits, without a doubt, music!",
+      "description": "I’m a web developer passionate about building clean, scalable applications and always curious to explore new technologies. Most of my experience has been in frontend development with frameworks like Vue, Angular, and React (Nextjs), though I also have knowledge of backend development with Node.js, Express, and databases (SQL, MongoDB).  I love working with Vue 3 and TypeScript to build clean and maintainable applications. My go-to stack includes Pinia for state management, Vite and Vue Router for navigation, along with Sass and CSS for styling. I enjoy integrating APIs with fetch and ensuring quality through testing with Vitest and Vue Testing Library. What motivates me most is creating smooth, intuitive user experiences and staying up to date with new tools that make development better.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0b12235d-ddef-4227-bbb2-8d8bb8b22774_perfil_short.png",
         "alt": "perfil_short.png"
@@ -32,49 +32,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "Boost by Stratesys"
+          "name": "/Boost (by Stratesys)"
         },
         "roles": [
           {
-            "name": "Frontend Developer",
+            "name": "Frontend Web Developer",
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Front-End Developer\nDevelopment of custom applications for clients\nFrontend Web & Mobile developer with Vue js and NativeScript."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "React Native",
-                "type": "technology"
-              },
-              {
-                "name": "SourceTree",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
+                "description": "• Frontend Developer • Development of custom applications for clients • Web developer with Vuejs, Vite, Pinia, Vue Router and APIRest • Mobile developer with NativeScript and PWA in Vuejs • Also working in aplications with React and Nextjs • Testing with Cypress and Vitest • Agile Software Development • Experience working on cross-functional projects, collaborating closely with design, backend, product owners, and clients to deliver cohesive solutions. • Strong client-facing and presentation skills, with the ability to clearly communicate ideas, defend proposals, and build trust with stakeholders."
               }
             ]
           }
@@ -86,26 +52,29 @@
         },
         "roles": [
           {
-            "name": "Account Manager",
-            "startDate": "2019-10-01",
+            "name": "Account Manager CPI (MSales)",
+            "startDate": "2020-05-01",
             "finishDate": "2020-10-01",
             "challenges": [
               {
-                "description": "- Management of communication and support with the client to maximize revenue.\n- Integration of apps with tracking platforms, API and S2S.\n- Control of customer accounts through dynamics.\n- Estimation and control of budgets (daily and monthly).\n- Launch and maintenance of campaigns.\n- Optimization of sources to increase ROI.\n- Identify possibilities and recruit new advertisers.\n- Be aware of new application models and possible changes in the market to support the customer."
+                "description": "- Management of communication and support with the client to maximize revenue. - Integration of apps with tracking platforms, API and S2S. - Control of customer accounts through dynamics. - Estimation and control of budgets (daily and monthly). - Launch and maintenance of campaigns. - Optimization of sources to increase ROI. - Identify possibilities and recruit new advertisers. - Be aware of new application models and possible changes in the market to support the customer."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kimia"
+        },
+        "roles": [
+          {
+            "name": "Advertising Account Manager (Armorads)",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
               {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Tableau",
-                "type": "technology"
+                "description": "- Grow and maintain strong and long term customer relationships with advertisers. - Launch new advertising campaigns. - Data Analysis and management to optimize the campaigns. - In charge of the LATAM region. - Media Buying"
               }
             ]
           }
@@ -122,7 +91,7 @@
             "finishDate": "2018-04-01",
             "challenges": [
               {
-                "description": "- Control financiero de las cuentas globales de la empresa\n- Realización de la facturación mensual\n- Control diario de pagos y cobros.\n- Desarrollo de plataformas internas de facturación y control financiero\n- Desarrollo de proyectos puntuales"
+                "description": "- Control financiero de las cuentas globales de la empresa - Realización de la facturación mensual - Control diario de pagos y cobros. - Desarrollo de plataformas internas de facturación y control financiero - Desarrollo de proyectos puntuales "
               }
             ]
           }
@@ -158,6 +127,36 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -171,6 +170,24 @@
       {
         "skill": {
           "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
           "type": "technology"
         }
       },
@@ -224,6 +241,18 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
@@ -243,110 +272,34 @@
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Full Stack Web Development ",
+        "name": "Full Stack Web Development",
         "startDate": "2021-01-01",
         "institution": {
-          "name": "The Bridge Digital Talent Accelerator",
-          "description": "Bootcamp de Desarrollo Web Full Stack MERN enfocado en JavaScript:\n- JavaScript\n- Node.js\n- MongoDB\n- Express.js\n- React.js\n- MySQL\n- Docker\n- Kubernetes"
+          "name": "The Bridge | Digital Talent Accelerator"
         },
-        "finishDate": "2021-05-01",
-        "linkedCompetences": [
-          {
-            "name": "Cypress",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "Kubernetes",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Mongoose",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2021-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Gestión de Pequeña y Mediana Empresa",
-        "startDate": "2011-09-01",
+        "startDate": "2011-01-01",
         "institution": {
-          "name": "Universidad de Salamanca",
-          "description": " - Año de Erasmus en NOVA School of Business and Economics de Lisboa"
+          "name": "Universidad de Salamanca"
         },
-        "finishDate": "2017-05-01"
+        "finishDate": "2017-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master en Marketing Digital",
-        "startDate": "2019-09-01",
+        "startDate": "2018-01-01",
         "institution": {
           "name": "ESIC Business & Marketing School"
         },
-        "finishDate": "2018-06-01"
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Good verbal communication",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
+        "finishDate": "2019-01-01"
       }
     ]
   },
