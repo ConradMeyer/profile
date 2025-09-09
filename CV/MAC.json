@@ -315,6 +315,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
