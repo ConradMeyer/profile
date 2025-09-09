@@ -9,7 +9,7 @@
       "name": "Conrad",
       "surnames": "Meyer-Alten",
       "title": "Frontend Developer",
-      "description": "I’m a web developer passionate about building clean, scalable applications and always curious to explore new technologies. Most of my experience has been in frontend development with frameworks like Vue, Angular, and React (Nextjs), though I also have knowledge of backend development with Node.js, Express, and databases (SQL, MongoDB).  I love working with Vue 3 and TypeScript to build clean and maintainable applications. My go-to stack includes Pinia for state management, Vite and Vue Router for navigation, along with Sass and CSS for styling. I enjoy integrating APIs with fetch and ensuring quality through testing with Vitest and Vue Testing Library. What motivates me most is creating smooth, intuitive user experiences and staying up to date with new tools that make development better.",
+      "description": "I’m a web developer passionate about building clean, scalable applications and always curious to explore new technologies. Most of my experience has been in frontend development with frameworks like Vue, Angular, and React (Nextjs), though I also have knowledge of backend development with Node.js, Express, and databases (SQL, MongoDB).\n\nI love working with Vue 3 and TypeScript to build clean and maintainable applications. My go-to stack includes Pinia for state management, Vite and Vue Router for navigation, along with Sass and CSS for styling. I enjoy integrating APIs with fetch and ensuring quality through testing with Vitest and Vue Testing Library. What motivates me most is creating smooth, intuitive user experiences and staying up to date with new tools that make development better.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0b12235d-ddef-4227-bbb2-8d8bb8b22774_perfil_short.png",
         "alt": "perfil_short.png"
@@ -279,7 +279,7 @@
         "institution": {
           "name": "The Bridge | Digital Talent Accelerator"
         },
-        "finishDate": "2021-01-01"
+        "finishDate": "2021-05-01"
       },
       {
         "studyType": "officialDegree",
