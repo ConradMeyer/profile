@@ -319,6 +319,10 @@
           "type": "technology"
         },
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
